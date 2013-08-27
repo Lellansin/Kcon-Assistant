@@ -1,0 +1,2 @@
+
+extern HWND hDialogHwnd;
